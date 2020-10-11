@@ -1,10 +1,10 @@
-## Cellular_Segmentation
+## Cell_Segmentation
 Cell_Seg: 
 Matlab tool for cell microscopy image segmentation 
 
 G.Zhu
 
-5-11-2020
+5-11-2015 / updated 10-11-2020
 
 I present you a segmentation tool that help with identification of brain cells for morphological studies of WT mice neuron. Primary objective of the tool is to assist in identification of neuron size in health and cognitive impairment WT mice. Application can be applied in other cell as well for morpholigical studies and basic cell counting.
 
